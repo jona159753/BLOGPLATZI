@@ -17,3 +17,11 @@ body {
 
     font-size: 20px;
 }
+
+#cabecera{
+
+    background: #AA9;
+    color: azure;
+    margin: 0;
+    padding: 0.sem;
+}
